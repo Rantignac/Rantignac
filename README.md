@@ -12,8 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rantignac&hide=css,java,html&theme=tokyonight)
 
 ## 
-<div align="center">
-
-![visitors](https://counter.gofiber.io/badge/rantignac/rantignac?unique=true)
-
-</div>
